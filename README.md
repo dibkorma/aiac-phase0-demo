@@ -36,7 +36,7 @@ bienes raíces, heladerías, construcción, arte.
 **Camino B — si ya tienes Claude Code instalado.** Clona esta carpeta y arranca ahí:
 
 ```
-git clone <la URL de este repo>
+git clone https://github.com/dibkorma/aiac-phase0-demo.git
 cd aiac-phase0-demo
 claude
 ```
@@ -92,7 +92,7 @@ real estate, ice cream shops, construction, art.
 **Path B — if you already have Claude Code.** Clone this folder and start it there:
 
 ```
-git clone <this repo's URL>
+git clone https://github.com/dibkorma/aiac-phase0-demo.git
 cd aiac-phase0-demo
 claude
 ```
